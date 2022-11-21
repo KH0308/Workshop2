@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388141848138",
+    "project_id": "tapn-eat",
+    "storage_bucket": "tapn-eat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388141848138:android:5b8a692f3ec34bf0cf78b3",
+        "android_client_info": {
+          "package_name": "com.example.tapneatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388141848138-3qj3bbtfk8q7c0vav0t1p06i4406reut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADpl1ffr8r_8GKeXHpB9Kl2LHRfMuMnpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388141848138-3qj3bbtfk8q7c0vav0t1p06i4406reut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
